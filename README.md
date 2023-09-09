@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmed Mahmoud Hafny @Hafny
+- 👋 Hi, I’m Ahmed Mahmoud Hafny @aHafny
    - 👀 I’m interested in Embedded systems sofware
     - 🌱 I’m currently learning mechatronics engineering specially focus on Embedded Systems
  - 💞️ I’m looking for internship to scale my knowledge 
